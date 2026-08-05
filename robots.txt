@@ -1,0 +1,6 @@
+# Превью / индексация выключена
+User-agent: *
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
